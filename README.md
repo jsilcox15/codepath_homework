@@ -16,7 +16,8 @@ echo $name'@'$univ
 
 Save the file as **screenfetch.gif**.
 
-**Challenges and Problems**: 
+**Challenges and Problems**:
+I was unable to run Docker on my main PC due to its outdated hardware so I had to use a laptop in order to complete this assignment. Additionally screenfetch was not installed initially so I had to down that.
 
 ### Running screenfetch (PUT YOUR GIF BELOW)
 
