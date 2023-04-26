@@ -13,8 +13,12 @@ Allows you to access unlinked pages, other colors return you to the main staff s
 
 XSS
 
-Input isn't scrubbed before being submitted
+Input isn't sanitized before being submitted
 
 <img src="XSS.gif" alt="Running screenfetch">
 
+SQLI
 
+Query is not being sanitized, injecting the following code allows for the site to stall for 3 seconds before refreshing the page
+
+<img src="SQLI.gif" alt="Running screenfetch">
